@@ -106,7 +106,7 @@ mvn test
 ## 👨‍💻 Geliştirici
 
 **İbrahim Akbaş**  
-📧 email@example.com  
+📧 ibrahimakbass00@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ibrahimakbas)
 
 ---
